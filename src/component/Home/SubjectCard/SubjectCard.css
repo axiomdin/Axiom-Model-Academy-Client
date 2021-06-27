@@ -1,0 +1,12 @@
+.SubjectCard{
+    box-shadow: 5px 5px 10px grey;
+    margin: 40px;
+    padding: 20px;
+}
+.enrollBtn{
+    border:none;
+    background-color: rgb(255, 72, 16);
+    border-radius: 5px;
+    color: lightcyan;
+    padding: 10px;
+}
