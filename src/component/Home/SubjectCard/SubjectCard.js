@@ -15,7 +15,7 @@ const SubjectCard = (props) => {
                     <h6 className="text-primary text-center">{subject}</h6>
                 </div>
                 <div>
-                    <h4 className="mt-3 text-center">Price: {price}</h4>
+                    <h4 className="mt-3 text-dark text-center">Price: {price}</h4>
                 </div>
                 <div className="card-body">
                     <p className="card-text text-center text-dark">{content}</p>

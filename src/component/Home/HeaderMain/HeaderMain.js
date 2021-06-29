@@ -10,7 +10,7 @@ const HeaderMain = () => {
                 <img style={{width:"70%", borderRadius:"50px"}} class="mt-5" src={teacher} alt=""/>
             </div>
             <div className="col-md-5 mt-5">
-               <h1 class="text-light fs-1"> We Are Trusted <br/> Academy</h1>
+               <h1 class="text-light fs-1"> We Are Trusted <br/> Academy login</h1>
                <p class="text-light" >This Quick And Free Online Test Will Tell Your Language Label And HelpChoose The Best Group Course</p>
             </div>
         </div>
